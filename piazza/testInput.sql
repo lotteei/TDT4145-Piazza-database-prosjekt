@@ -1,4 +1,4 @@
-insert into course values ("TDAT3023", 2), ("FI1104", 2), ("KULT3301",1), ("TDT4156", 2), ("TDT6725", 1), ("TDT4140");
+insert into course values ("TDAT3023", 2), ("FI1104", 2), ("KULT3301",1), ("TDT4156", 2), ("TDT6725", 1), ("TDT4140",1);
 
 insert into folder (name, courseID) values ("Assignments", "TDAT3023"), ("Lectures", "TDAT3023"), ("Exam", "TDAT3023"), ("Exam2016", "TDAT3023"), ("Assignments", "FI1104"), ("Lectures", "FI1104"), 
 ("Exam", "FI1104"), ("Assignments", "KLUT3301"), ("Lectures", "KLUT3301"), ("Exam", "KLUT3301"), ("Assignments", "TDT4156"), ("Lectures", "TDT4156"), ("Exam", "TDT4156"),
